@@ -1,0 +1,140 @@
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+.food{
+    width:90%;
+   
+    margin-right: 0;
+}
+.col{
+    text-align: right;
+}
+.btn{
+    margin: 0;
+}
+.swiggy-logo{
+    width: 50%;
+    
+   
+}
+.emm{
+    margin-top: 150px;
+}
+.topic{
+    font-size: 1.5rem;
+    margin-bottom: 40px;
+    color: black;
+}
+/* p{
+   
+    margin-top: 200px;
+    font-size: 1rem;
+    color: gray;
+} */
+.states{
+    margin-top: 30px;
+}
+#second{
+    background-color: #2b1e16;
+    text-align: center;
+   
+}
+.sticker{
+    /* display: flex; */
+    height: 320px;
+    border-bottom: 1px solid #4d4d4d;
+}
+h2{
+    font-family:'montserrat',sans-serif;
+    font-size:2.5rem;
+    color: white;
+    font-weight: normal;
+    padding: 40px;
+    margin-bottom: 0;
+
+}
+.coll{
+    text-align: center;
+    
+}
+h6{
+    color: #e0cbc1;
+    margin-bottom: 80px;
+}
+.mex{
+    color: black;
+}
+.mob{
+ width:80%;
+}
+.log{
+    height: 54px;
+       
+}
+#fourth{
+    background-color: black;
+    margin-bottom: 0;
+    
+   
+}
+#fifth{
+    background-color: black;
+    margin-top: 0;
+}
+#sixth{
+    background-color: black;
+    text-align: center;
+}
+hr{
+    color: white;
+    margin: 0;
+    
+}
+.logg
+{
+    margin-top: 10%;
+}
+h5{
+    color: white;
+    font-size: medium;
+    padding-top: 15%;
+    
+}
+.states{
+    color: black;
+}
+p{
+    color: white;
+}
+.rtr{
+    text-align: left;
+}
+.swiggy{
+    height: 70px;
+    padding-top: 25px;
+    padding-left: 20px;
+}
+.fex{
+    padding: 30px;
+}
+.fa-brands{
+    padding: 30px 15px 15px 30px;
+    color: white;
+}
+
+
+.inputForm{
+    width: 80%;
+    height: 60px;
+}
+
+.mybtn {
+    height: 60px;
+    background-color: #FC8019;
+}
+
+.wrap {
+    margin: 0;
+}
